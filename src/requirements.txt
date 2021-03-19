@@ -10,7 +10,7 @@ django-extra-fields==1.2.4
 django-phonenumber-field==3.0.1
 django-rest-auth==0.9.5
 django-slack==5.13.0
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 djangorestframework-simplejwt==4.3.0
 djongo==1.2.32
